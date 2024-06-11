@@ -6,7 +6,7 @@ Available at: https://ieeexplore.ieee.org/document/10374278
 Supplementary material: https://cmp.felk.cvut.cz/~moravj34/ocamo
 
 ## News
-- **This work will be presented at ICRA 2024 in Yokohama.**
+- **This work was presented at ICRA 2024 in Yokohama.**
 - Inference codes (for Matlab and Python) are available! You can test both of the proposed methods (OCaMo and LTO) on calibration monitoring and tracking.
 
 ## License
